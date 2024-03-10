@@ -12,5 +12,5 @@
 ![image](https://github.com/QpilCapybaru/CTF/assets/162910881/b8b04a57-43e3-4b5f-b859-6beee9096419)  
 Это сработало и можо увидеть единственный файл "index.php" который сразу был открыт с помощью команды cat (кот)  
 ![image](https://github.com/QpilCapybaru/CTF/assets/162910881/f203f9fb-9ddf-4b3e-b2c7-a02a53a9db16)  
-Флаг был изменен!  
+Флаг был заменен!  
 Задание было успешно выполнено.
